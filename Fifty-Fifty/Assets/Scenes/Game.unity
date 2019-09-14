@@ -187,27 +187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6571218379104177575, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6571218379104177575, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.39954376
-      objectReference: {fileID: 0}
-    - target: {fileID: 6571218379104177575, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
-        type: 3}
-      propertyPath: m_Color.b
+    - target: {fileID: 251694982, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756, type: 3}
+      propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6571218379104177569, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
-        type: 3}
-      propertyPath: particle
-      value: 
-      objectReference: {fileID: 5231640190847971768, guid: a096926a10d055d4cad92fb6205159b6,
-        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756, type: 3}
 --- !u!1 &126237737
@@ -1476,25 +1459,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 495874900}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1475849660 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6571218379104177573, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
-    type: 3}
-  m_PrefabInstance: {fileID: 785130}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1475849661
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1475849660}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3823623e876e21147bad45da08d255ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: 0
 --- !u!4 &1492542091 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6571218379104177574, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,
@@ -2150,6 +2114,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Puszek
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455014407356571643, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1455014406920393586, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
