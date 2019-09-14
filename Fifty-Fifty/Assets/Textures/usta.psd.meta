@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: 25c87003d17ab8e449852a54412fd373
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6867123750219764492
+    second: usta_0
+  - first:
+      213: -2549546582488041348
+    second: usta_1
+  - first:
+      213: 6934749048323639599
+    second: usta_2
+  - first:
+      213: 9143696030122604735
+    second: usta_3
+  - first:
+      213: 3248646825232060415
+    second: usta_4
+  - first:
+      213: 113782543203383678
+    second: usta_5
+  - first:
+      213: -3914186904262879833
+    second: usta_6
+  - first:
+      213: 4229574015072807637
+    second: usta_7
+  - first:
+      213: -3759752276649061817
+    second: usta_8
+  - first:
+      213: 7156762143671200978
+    second: usta_9
+  - first:
+      213: 1686673565861935871
+    second: usta_10
+  - first:
+      213: -8356378966577819506
+    second: usta_11
+  - first:
+      213: 7294653769701494294
+    second: usta_12
+  - first:
+      213: 2544201824615901811
+    second: usta_13
+  - first:
+      213: -8028217264311540815
+    second: usta_14
+  - first:
+      213: 7967434292056394149
+    second: usta_15
+  - first:
+      213: 2587036237423050553
+    second: usta_16
+  - first:
+      213: 3070130586059713626
+    second: usta_17
+  - first:
+      213: -1712728398935128041
+    second: usta_18
+  - first:
+      213: 1450128378851734500
+    second: usta_19
+  - first:
+      213: -8396647311009794896
+    second: usta_20
+  - first:
+      213: 1637098900287301668
+    second: usta_21
+  - first:
+      213: -5805595735673216734
+    second: usta_22
+  - first:
+      213: -4321449904741223456
+    second: usta_23
+  - first:
+      213: -1237117612918962783
+    second: usta_24
+  - first:
+      213: -8239759038435477622
+    second: usta_25
+  - first:
+      213: 6361574010136442133
+    second: usta_26
+  - first:
+      213: -820175122956270104
+    second: usta_27
+  - first:
+      213: -6220467976111629482
+    second: usta_28
+  - first:
+      213: 9119866485160866917
+    second: usta_29
+  - first:
+      213: -1200927875697555780
+    second: usta_30
+  - first:
+      213: 5407717367162798214
+    second: usta_31
+  - first:
+      213: 5011832264086137835
+    second: usta_32
+  - first:
+      213: 5553236925780164035
+    second: usta_33
+  - first:
+      213: 8670352727986679913
+    second: usta_34
+  - first:
+      213: -8263475768954604391
+    second: usta_35
+  - first:
+      213: -1946022907446213148
+    second: usta_36
+  - first:
+      213: 6309373004644279112
+    second: usta_37
+  - first:
+      213: -3077010278732358666
+    second: usta_38
+  - first:
+      213: -1686227526090114476
+    second: usta_39
+  - first:
+      213: 3677876993477025280
+    second: usta_40
+  - first:
+      213: -4572180126635281877
+    second: usta_41
+  - first:
+      213: -3980560692816045654
+    second: usta_42
+  - first:
+      213: -4926743593983089008
+    second: usta_43
+  - first:
+      213: -7420142911020298934
+    second: usta_44
+  - first:
+      213: 2028137006411801077
+    second: usta_45
+  - first:
+      213: 1833132158792583054
+    second: usta_46
+  - first:
+      213: 2654271745201308593
+    second: usta_47
+  - first:
+      213: 5704363415812289352
+    second: usta_48
+  - first:
+      213: -4486916639302665124
+    second: usta_49
+  - first:
+      213: -9201274970354701936
+    second: usta_50
+  - first:
+      213: -3297668292830857396
+    second: usta_51
+  - first:
+      213: -8468489588461998853
+    second: usta_52
+  - first:
+      213: 8787843467504716203
+    second: usta_53
+  - first:
+      213: 7958008854686914969
+    second: usta_54
+  - first:
+      213: 7967592676103227191
+    second: usta_55
+  - first:
+      213: 8316510668444918672
+    second: usta_56
+  - first:
+      213: -7576783319433839107
+    second: usta_57
+  - first:
+      213: 1275566486783664523
+    second: usta_58
+  - first:
+      213: 193479401711500732
+    second: usta_59
+  - first:
+      213: -1385188633925866534
+    second: usta_60
+  - first:
+      213: 1302067229897213801
+    second: usta_61
+  - first:
+      213: -4968523532988661157
+    second: usta_62
+  - first:
+      213: 8279504426730235136
+    second: usta_63
+  - first:
+      213: -671821179763394065
+    second: usta_64
+  - first:
+      213: 3370709731674797066
+    second: usta_65
+  - first:
+      213: 8165847829615298183
+    second: usta_66
+  - first:
+      213: -5639289801882522004
+    second: usta_67
+  - first:
+      213: 1826387705045069760
+    second: usta_68
+  - first:
+      213: 2978131199496009323
+    second: usta_69
+  - first:
+      213: -3726805040181535235
+    second: usta_70
+  - first:
+      213: 8234291974381259029
+    second: usta_71
+  - first:
+      213: -7349962531473934949
+    second: usta_72
+  - first:
+      213: -144988821635889990
+    second: usta_73
+  - first:
+      213: 7197277499409981937
+    second: usta_74
+  - first:
+      213: 8183955749527413146
+    second: usta_75
+  - first:
+      213: -6341054739001171027
+    second: usta_76
+  - first:
+      213: -2357991860508364676
+    second: usta_77
+  - first:
+      213: 305035227344959607
+    second: usta_78
+  - first:
+      213: -2381174970840468322
+    second: usta_79
+  - first:
+      213: 5176138790597627774
+    second: usta_80
+  - first:
+      213: 3800241181494956966
+    second: usta_81
+  - first:
+      213: 2529211238991013761
+    second: usta_82
+  - first:
+      213: -8227168254460971178
+    second: usta_83
+  - first:
+      213: -3203609237305664129
+    second: usta_84
+  - first:
+      213: -5831161904791975277
+    second: usta_85
+  - first:
+      213: -1673253283759408979
+    second: usta_86
+  - first:
+      213: -2813181848539654517
+    second: usta_87
+  - first:
+      213: 1466040818471211481
+    second: usta_88
+  - first:
+      213: 5347210008466135858
+    second: usta_89
+  - first:
+      213: 5332700105014116364
+    second: usta_90
+  - first:
+      213: -3600571935313534815
+    second: usta_91
+  - first:
+      213: -6276304810967891380
+    second: usta_92
+  - first:
+      213: 6028864722382987268
+    second: usta_93
+  - first:
+      213: -675251330212883312
+    second: usta_94
+  - first:
+      213: -492709333153738550
+    second: usta_95
+  - first:
+      213: 2332699029713519324
+    second: usta_96
+  - first:
+      213: 3320596200489367339
+    second: usta_97
+  - first:
+      213: -5180037758616085032
+    second: usta_98
+  - first:
+      213: -3280632667640622009
+    second: usta_99
+  - first:
+      213: -180899419536814698
+    second: usta_100
+  - first:
+      213: 2210451829618969834
+    second: usta_101
+  - first:
+      213: -7508671102386892004
+    second: usta_102
+  - first:
+      213: 4323832568241046893
+    second: usta_103
+  - first:
+      213: -4480912622541119207
+    second: usta_104
+  - first:
+      213: 7118794065191953317
+    second: usta_105
+  - first:
+      213: 671711830962338203
+    second: usta_106
+  - first:
+      213: 1286112793186021918
+    second: usta_107
+  - first:
+      213: 3140875193069828194
+    second: usta_108
+  - first:
+      213: 6025746041832436693
+    second: usta_109
+  - first:
+      213: 3126832084474471412
+    second: usta_110
+  - first:
+      213: -5177675959356502395
+    second: usta_111
+  - first:
+      213: 6198514380326586007
+    second: usta_112
+  - first:
+      213: 8389589667348750652
+    second: usta_113
+  - first:
+      213: 3701212173149108658
+    second: usta_114
+  - first:
+      213: 3712944270310321303
+    second: usta_115
+  - first:
+      213: 3115541252635218061
+    second: usta_116
+  - first:
+      213: 9216125686148252275
+    second: usta_117
+  - first:
+      213: -4099388946522679192
+    second: usta_118
+  - first:
+      213: 505538787469286655
+    second: usta_119
+  - first:
+      213: -2107951562566321720
+    second: usta_120
+  - first:
+      213: 1841944111865605255
+    second: usta_121
+  - first:
+      213: -2740406472454797584
+    second: usta_122
+  - first:
+      213: -1380411144315587748
+    second: usta_123
+  - first:
+      213: 4731683166266966150
+    second: usta_124
+  - first:
+      213: -3970070412428362227
+    second: usta_125
+  - first:
+      213: -8839358586329365588
+    second: usta_126
+  - first:
+      213: -800956553545453479
+    second: usta_127
+  - first:
+      213: -7657655277886349771
+    second: usta_128
+  - first:
+      213: 2691115199932518230
+    second: usta_129
+  - first:
+      213: -5176007071937186579
+    second: usta_130
+  - first:
+      213: -140802849038825623
+    second: usta_131
+  - first:
+      213: 9012044406870142043
+    second: usta_132
+  - first:
+      213: 6609819175312911457
+    second: usta_133
+  - first:
+      213: -8743835335197679253
+    second: usta_134
+  - first:
+      213: -3895764438785896167
+    second: usta_135
+  - first:
+      213: -3393652588807432033
+    second: usta_136
+  - first:
+      213: 8197213193590993558
+    second: usta_137
+  - first:
+      213: -6750737488921751216
+    second: usta_138
+  - first:
+      213: 7791864960534930009
+    second: usta_139
+  - first:
+      213: 3749431055329202000
+    second: usta_140
+  - first:
+      213: 7375382934345186610
+    second: usta_141
+  - first:
+      213: -8528211484882943038
+    second: usta_142
+  - first:
+      213: -1398578419367197192
+    second: usta_143
+  - first:
+      213: -753098735995280367
+    second: usta_144
+  - first:
+      213: 5204411317312275532
+    second: usta_145
+  - first:
+      213: -614593253170160676
+    second: usta_146
+  - first:
+      213: 902439406827046274
+    second: usta_147
+  - first:
+      213: -1413757503779912688
+    second: usta_148
+  - first:
+      213: 2565356701468345790
+    second: usta_149
+  - first:
+      213: -978345076053351232
+    second: usta_150
+  - first:
+      213: 7001135304132103079
+    second: usta_151
+  - first:
+      213: 4963498598519152128
+    second: usta_152
+  - first:
+      213: 4181843597759117917
+    second: usta_153
+  - first:
+      213: -8259960295646890382
+    second: usta_154
+  - first:
+      213: 8113512497352429013
+    second: usta_155
+  - first:
+      213: 3909693210658713792
+    second: usta_156
+  - first:
+      213: 9197020107046124639
+    second: usta_157
+  - first:
+      213: -3890235813315165860
+    second: usta_158
+  - first:
+      213: 4859740815826251301
+    second: usta_159
+  - first:
+      213: -1637953674187886011
+    second: usta_160
+  - first:
+      213: 8606036573594161524
+    second: usta_161
+  - first:
+      213: 967636322841440719
+    second: usta_162
+  - first:
+      213: -5899178835791900622
+    second: usta_163
+  - first:
+      213: 301349259091367839
+    second: usta_164
+  - first:
+      213: 5250662087914812606
+    second: usta_165
+  - first:
+      213: 7689410329173222534
+    second: usta_166
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1537, y: 2108, z: 1524, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: usta_0
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529eb07839ca6ab428b0e816d47babbf
+      internalID: 6867123750219764492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_1
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2719
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb76f7c4e7966b489a538ee2aed956c
+      internalID: -2549546582488041348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_2
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c03648f98740840ae305cab97c5dc0
+      internalID: 6934749048323639599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_3
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53abcc4065d2b42bfcb5ded3184ae4
+      internalID: 9143696030122604735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb35b9c47807c4c9aa14b677c05bd3
+      internalID: 3248646825232060415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_5
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920f462347b7c841908fb74493b17d1
+      internalID: 113782543203383678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_6
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ede5d707a206b48833f04a6d8afc2f
+      internalID: -3914186904262879833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_7
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27f1e03a9712a4abc4253bd288ac71
+      internalID: 4229574015072807637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_8
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8f4a0414a35c14d83edac3822e07d7
+      internalID: -3759752276649061817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_9
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2719
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88855a521d627478fa22054d04f582
+      internalID: 7156762143671200978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_10
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438f7982d1764a429075919a240ccef
+      internalID: 1686673565861935871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2698
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1526364c1bacb046a71afeee0923d45
+      internalID: -8356378966577819506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_12
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2175
+        width: 1455
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07046b4349e5444a8c357a6f7ee83c
+      internalID: 7294653769701494294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_13
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2678
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9358856b2ee47ed4b93e700accd74153
+      internalID: 2544201824615901811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_14
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2679
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6b5a050b4d794b989ce2d2ddadf63
+      internalID: -8028217264311540815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_15
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2658
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1accfb0d498e04aa0750738f204401
+      internalID: 7967434292056394149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_16
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2659
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584207db7c17fa043b895d40781923b1
+      internalID: 2587036237423050553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_17
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2639
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef22b20774565f4bac7078222192780
+      internalID: 3070130586059713626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_18
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2639
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9785038d139d419c3ac6cb02c6b00
+      internalID: -1712728398935128041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_19
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2619
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63640604ec69fc34dba3e0f3f1d8a47a
+      internalID: 1450128378851734500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_20
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2599
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4e3b11a6854844b4d97c8a996cd7a
+      internalID: -8396647311009794896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_21
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2575
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be304482aa89f3d48a3805910d49a62a
+      internalID: 1637098900287301668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_22
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2559
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c789e6a7961d742a2d2e4fdea1ce0d
+      internalID: -5805595735673216734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_23
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2539
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b91947a71b62f4a90eb7b80417bcfb
+      internalID: -4321449904741223456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_24
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2519
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566cfcb3a6d5f941ab02dd0978bfea9
+      internalID: -1237117612918962783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_25
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2519
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76504fd741c51334fa7901b8abcbf1a0
+      internalID: -8239759038435477622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_26
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34bdb6da03092440bad92debc8ddefe
+      internalID: 6361574010136442133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_27
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe52973e2e870f47b48982c07bec7dc
+      internalID: -820175122956270104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_28
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2479
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330aadf958f48f44b253cf2ef51b012
+      internalID: -6220467976111629482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_29
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2479
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88245e8f5c938604bbac01a5e158d491
+      internalID: 9119866485160866917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_30
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2458
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f661ac6124e24bb262c846b29ff82
+      internalID: -1200927875697555780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_31
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2438
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000276f57230c3241a98b08883e1c1c8
+      internalID: 5407717367162798214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2418
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4552c15d96ae0f499b65ff7602d6f4c
+      internalID: 5011832264086137835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_33
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2399
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63fccb692a7eb44b630743c01ab444
+      internalID: 5553236925780164035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_34
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2378
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042cdcbc7aca71845beeb24594f8eeb9
+      internalID: 8670352727986679913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_35
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2379
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd5b186429c45c459c3b9ad09d10236
+      internalID: -8263475768954604391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_36
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2359
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2096bfa91189244a35dbe7d6eb90e0
+      internalID: -1946022907446213148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_37
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2359
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f747f6c4fb9c2419c4bcc9a86f8d09
+      internalID: 6309373004644279112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_38
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece22cd672b80e4baa34774050caaca
+      internalID: -3077010278732358666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_39
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42991f43930b842b0b3a91c6cc33e7
+      internalID: -1686227526090114476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_40
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a11852365330a4b9ff86f7b742f9e9
+      internalID: 3677876993477025280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_41
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2299
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9469c4c3440b49bf81f002c9f98d9
+      internalID: -4572180126635281877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_42
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2275
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c6f65a11ce7f48a08ba06bf83138d
+      internalID: -3980560692816045654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_43
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37a9986e1d5584faaafb0b6df77d2d
+      internalID: -4926743593983089008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_44
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dead34d0e02b247b6132860d7f743a
+      internalID: -7420142911020298934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_45
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2219
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52914da0cc8ab284993f3512b414e7e0
+      internalID: 2028137006411801077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_46
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2218
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e754ab098d00a4098515143c77a96f
+      internalID: 1833132158792583054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_47
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2198
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87abbebda79b214d8a11248fa1cd8b9
+      internalID: 2654271745201308593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_48
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2199
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8afa84051f03844bd12cbcfacf142e
+      internalID: 5704363415812289352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_49
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17ab486098e0b4aac8d273ab000675
+      internalID: -4486916639302665124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_50
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2179
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f8d07358e71e4485e689e67c93783
+      internalID: -9201274970354701936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_51
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47066c27fadd69e46ae2658667289231
+      internalID: -3297668292830857396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_52
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2159
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6a998512ebd614a843e05874359a9b
+      internalID: -8468489588461998853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_53
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e3608c1b7b3c4abfb37a63f56d453
+      internalID: 8787843467504716203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_54
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ab0cf988e84b44b4cf2201c4bd673
+      internalID: 7958008854686914969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_55
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0fb8657469fac4ba3f94b508b88181
+      internalID: 7967592676103227191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_56
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dbe79265000b64a9b91d63158c6fbd
+      internalID: 8316510668444918672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_57
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2159
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925ee74d637bbd4bb20b1d3a41b11c3
+      internalID: -7576783319433839107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_58
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2159
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a930b2459e9740b0257e97704e9a2
+      internalID: 1275566486783664523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_59
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 2159
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9fa20ca84f81f48a9b5f74f25ccdb2
+      internalID: 193479401711500732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_60
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2159
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93536ea09f93aa44f9f0d42b8954cb21
+      internalID: -1385188633925866534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_61
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4a4077d3d259448aebfac66ebd4c5
+      internalID: 1302067229897213801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_62
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88542a93772453744a0847ab58bf0454
+      internalID: -4968523532988661157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_63
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae854bbb364e6468267e823e8d77bb
+      internalID: 8279504426730235136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_64
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da6235fe3347b4083bb6b909e2a6a1
+      internalID: -671821179763394065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_65
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2139
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b951606767775249bf249fd4f2190ea
+      internalID: 3370709731674797066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_66
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f10f4a214aff468d34f005737dde6
+      internalID: 8165847829615298183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_67
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2140
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85bd33254dd574db7473a6e169c9d8
+      internalID: -5639289801882522004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_68
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abd1bfaf5b962a41972d4565f706950
+      internalID: 1826387705045069760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_69
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f87aa2602c1a47b0749f3c1c5fb40
+      internalID: 2978131199496009323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_70
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f4d9340b59504aa7c942b7549fde0
+      internalID: -3726805040181535235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_71
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1293865cc5995d44bea87212471d187
+      internalID: 8234291974381259029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_72
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2139
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3e222473878a43bb25ec5182dac9c
+      internalID: -7349962531473934949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_73
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef646fe4f29ca43aeef2f92f6eb8a7
+      internalID: -144988821635889990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_74
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2119
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f351417006ef98e428a91cfbabaf9f68
+      internalID: 7197277499409981937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_75
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92038817c70a42c448c13dc2b6b6f14d
+      internalID: 8183955749527413146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_76
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2119
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57dc0c0a83a6bd4cb66295991d39477
+      internalID: -6341054739001171027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_77
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2119
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63cfbfb2abb7de4f9de1be002ccfb8d
+      internalID: -2357991860508364676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_78
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2119
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b22add6a6cb134e8a9f72863e42e0e
+      internalID: 305035227344959607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_79
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c86d4539e80944a4cc83e559d9e5c
+      internalID: -2381174970840468322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_80
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25e6bebbe23bb46b01b48ca281f9dd
+      internalID: 5176138790597627774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_81
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ef7d34747e804ca691431f43b0c1b
+      internalID: 3800241181494956966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_82
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3349b0053560b040a6afbb5edb8b834
+      internalID: 2529211238991013761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_83
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 2119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab97e6ce3036b4bab026b6bbb5c601
+      internalID: -8227168254460971178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_84
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956d5b4bf2caf244b04657f7d35b244
+      internalID: -3203609237305664129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_85
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2099
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25585b83cab9c2a4da3bbd4f5987086a
+      internalID: -5831161904791975277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_86
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4b4ef49576734b9c4083bcd46f3a8
+      internalID: -1673253283759408979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_87
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c25e0a1da2750f42a7b33e74a9a8768
+      internalID: -2813181848539654517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_88
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e4619ddd5b6b74096049d55afe203c
+      internalID: 1466040818471211481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_89
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53488412197dfb4fa82373b94790540
+      internalID: 5347210008466135858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_90
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddfe3e7d4495b240901fa3dab1f183b
+      internalID: 5332700105014116364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_91
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a9edc66ad7b8478c17e7b574b38e1
+      internalID: -3600571935313534815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_92
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 2099
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de684aadbab6b3a49b8a1ed21f8f9e85
+      internalID: -6276304810967891380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_93
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2099
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2857c0b4b89834439965e30a4aecb21
+      internalID: 6028864722382987268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_94
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2099
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0c067be385c74c90c63cf55337528
+      internalID: -675251330212883312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_95
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2079
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00926ce20a0653248a546be0d916b557
+      internalID: -492709333153738550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_96
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90918036726a434409bb49ace314cd54
+      internalID: 2332699029713519324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_97
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f03669f6b78942a78f7fc3978ac14
+      internalID: 3320596200489367339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_98
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2079
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f14516b3ba9b4f82af87c6baeacb8
+      internalID: -5180037758616085032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_99
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83cd2fc388471141ac621c10a7263ac
+      internalID: -3280632667640622009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_100
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f37cb044de79343a93ff80a41de8d0
+      internalID: -180899419536814698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_101
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e10f8c8f37554ea9f3e3f41e8418e
+      internalID: 2210451829618969834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_102
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dae286292bc5e49aad20ce1991e7ff
+      internalID: -7508671102386892004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_103
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 2079
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47ce33b96021f49a6566585d491c1a
+      internalID: 4323832568241046893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_104
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2198b01a47eaec449e7cde5d6b74954
+      internalID: -4480912622541119207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_105
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2079
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cdbfa7e81e24499c17346e9e21284
+      internalID: 7118794065191953317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_106
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2059
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea4985b126d2c419c4e5d607a2af29
+      internalID: 671711830962338203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_107
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3df0507b5d7d468eb2283f78708bf
+      internalID: 1286112793186021918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_108
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9906239b4885ba469b160fcdd091c41
+      internalID: 3140875193069828194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_109
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2059
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c86f19e765bd0448ff94f37171bcec
+      internalID: 6025746041832436693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_110
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21d5c9ae9f4fa41870d6e5f85232a2
+      internalID: 3126832084474471412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_111
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cafb1fe0fa11bc4ea9c016f0c71672c
+      internalID: -5177675959356502395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_112
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b09c21bcb263e4db920fa59aece3fc
+      internalID: 6198514380326586007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_113
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69f5990beb43549bed79b502fcee0d
+      internalID: 8389589667348750652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_114
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad52e8856d11b44a703b654c90316e
+      internalID: 3701212173149108658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_115
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077a51e1d4f8b1498b830989ae91c84
+      internalID: 3712944270310321303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_116
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2059
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbdca76525aef4e93c2635f533d609
+      internalID: 3115541252635218061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_117
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50411f6c47890a469eaa69340821be8
+      internalID: 9216125686148252275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_118
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7a184f1cab6d4194e37e978ba11c6
+      internalID: -4099388946522679192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_119
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8ecc8b374229f4588a63b88d1c9845
+      internalID: 505538787469286655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_120
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2039
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607b55cef1be444e9209309637b69a8
+      internalID: -2107951562566321720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_121
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde66b0b45a6d243a61aebaa4726d90
+      internalID: 1841944111865605255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_122
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239e17960deb2846858095d2f4c7688
+      internalID: -2740406472454797584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_123
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 2039
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae16ec443ab52c44a03cbc395389b6b
+      internalID: -1380411144315587748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_124
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df79fee25e227f47892f92b80d62267
+      internalID: 4731683166266966150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_125
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ffb946a0687b43b1f810c5db0f871
+      internalID: -3970070412428362227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_126
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f2d9d7c1a422409bd53addd568f0c
+      internalID: -8839358586329365588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_127
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b9c73050a1ea429831eb2c4ae3387
+      internalID: -800956553545453479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_128
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e683560022a76944996514fa19ed91a
+      internalID: -7657655277886349771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_129
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e1c1d2939c9f4ea2d145d2b540ede
+      internalID: 2691115199932518230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_130
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31e10bfe047b44d88b91dfa83a1bf6
+      internalID: -5176007071937186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_131
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e151c1dd8f6846a795d5cd3a15028
+      internalID: -140802849038825623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_132
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c84f2212eb4e41b7321a36458b62c
+      internalID: 9012044406870142043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_133
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35cf9c17ca6ea4bbce612e8725e57c
+      internalID: 6609819175312911457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_134
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2018
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57308c503c85d3a47aadc1b894903f98
+      internalID: -8743835335197679253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_135
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde486dbe541e194b90073a81fa5a38e
+      internalID: -3895764438785896167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_136
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8dd1aa5215ad744bafce1cfc3d6c80
+      internalID: -3393652588807432033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_137
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c66c76643d9531418a8b773614574bc
+      internalID: 8197213193590993558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_138
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdba041c6038194793b4c709dd53c55
+      internalID: -6750737488921751216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_139
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45025a8bfc87f3e4bb830144f8b7e874
+      internalID: 7791864960534930009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_140
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8f963fe9779546911c1e12b63b2dc
+      internalID: 3749431055329202000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_141
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89ca1b1c9c44a448f649657d292f81
+      internalID: 7375382934345186610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_142
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1998
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20885caa6f856f479cf1d76aa3c9899
+      internalID: -8528211484882943038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_143
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1998
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89af89d1948a94a46af13a897dcacd54
+      internalID: -1398578419367197192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_144
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1998
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454417f75f252244a923c957bd021387
+      internalID: -753098735995280367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_145
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1998
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab11496550fbbb489e4651e14f2df32
+      internalID: 5204411317312275532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_146
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6f1bc14018c644866d811cd4265c8
+      internalID: -614593253170160676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_147
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd1f90a9a72544d874998ea9b5c8ca
+      internalID: 902439406827046274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_148
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfbd81502915744fbe5e3136aee717e
+      internalID: -1413757503779912688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_149
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1999
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f48e29420a10340b6789fd80503ed7
+      internalID: 2565356701468345790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_150
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1976
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbf445e6532b847b9e09cbc70217f7
+      internalID: -978345076053351232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_151
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1976
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad29ae8db22bef4a880107337295f1a
+      internalID: 7001135304132103079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_152
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1976
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c9362b7ca72047ab01bf0b9d724ab
+      internalID: 4963498598519152128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_153
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1976
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b4a67f8e31ca42921632131d72f7b
+      internalID: 4181843597759117917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_154
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1976
+        width: 94
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245c6c1a6146684c997497209e9a207
+      internalID: -8259960295646890382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_155
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1976
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c975b423ee764d98041dbe36acdd9
+      internalID: 8113512497352429013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_156
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557768bf3923764784e9a1942e635ac
+      internalID: 3909693210658713792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c977fbc8f60c345931ce6444369cd8
+      internalID: 9197020107046124639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_158
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1965
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e767430b7ebe4c41a90735da5c20e21
+      internalID: -3890235813315165860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_159
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f3520561787f4a9a701698a068fd8
+      internalID: 4859740815826251301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_160
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7b0d3954486143abf64e9f198bdba
+      internalID: -1637953674187886011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_161
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1965
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0829714f85a5245a1bfd50ae179834
+      internalID: 8606036573594161524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_162
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde42fcb6f439064e8f87bec89b2e8e9
+      internalID: 967636322841440719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_163
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e6679b9f7dd24785b362719f6f1fe
+      internalID: -5899178835791900622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_164
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eea3fd1e6c7472418d2ececbf3212b9
+      internalID: 301349259091367839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_165
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ead4be73bcf947b4747d1cca3f206
+      internalID: 5250662087914812606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: usta_166
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1965
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569f35aaf4794f40ab40db5c45f828e
+      internalID: 7689410329173222534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,6 +9,15 @@ public class BallController : MonoBehaviour
     Vector2 startPress;
     Vector2 endPress;
     Vector2 direction;
+
+    [SerializeField] AudioClip deathSnd;
+
+    internal void Kill()
+    {
+        AudioSource.PlayClipAtPoint(deathSnd, transform.position);
+       // gameObject.SetActive(false);
+    }
+
     Rigidbody2D rb2d;
 
     [SerializeField] float forceFactor;
