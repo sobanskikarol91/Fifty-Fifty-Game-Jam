@@ -12,6 +12,7 @@ public class BallController : MonoBehaviour
     Rigidbody2D rb2d;
 
     [SerializeField] float forceFactor;
+    [SerializeField] AudioClip jumpSnd;
 
     public static event Action OnMouseDown;
     public static event Action OnMouseUp;
@@ -41,8 +42,8 @@ public class BallController : MonoBehaviour
     {
         OnMouseUp?.Invoke();
         endPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
+        AudioSource.PlayClipAtPoint(jumpSnd, transform.position);
         AddForce();
-
     }
 
     void AddForce()

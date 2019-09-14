@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class SlowDown : MonoBehaviour
 {
+    [SerializeField] AudioClip slowSnd;
+    [SerializeField] float decreasedTime = 0.3f;
+
     private void Start()
     {
         BallController.OnMouseDown += DecreaseTime;
@@ -13,6 +16,7 @@ public class SlowDown : MonoBehaviour
 
     private void DecreaseTime()
     {
+        AudioSource.PlayClipAtPoint(slowSnd, transform.position);
         Time.timeScale = 0.5f;
     }
 
@@ -20,6 +24,4 @@ public class SlowDown : MonoBehaviour
     {
         Time.timeScale = 1f;
     }
-
-
 }
