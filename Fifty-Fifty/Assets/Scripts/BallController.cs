@@ -3,16 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class BallController : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+public class BallController : MonoBehaviour
 {
-    Vector2 pressPosition;
-    Vector2 endPosition;
+    Vector2 startPress;
+    Vector2 endPress;
     Vector2 direction;
     Rigidbody2D rb2d;
 
     [SerializeField] float forceFactor;
-    [SerializeField] float maxForce;
-    [SerializeField] float minForce;
 
     private void Awake()
     {
@@ -22,24 +20,29 @@ public class BallController : MonoBehaviour, IPointerDownHandler, IPointerUpHand
     private void Update()
     {
         transform.rotation = Quaternion.Euler(Vector3.zero);
+
+        if (Input.GetMouseButtonDown(0))
+            MouseDown();
+        else if (Input.GetMouseButtonUp(0))
+            MouseUp();
     }
 
-    public void OnPointerDown(PointerEventData eventData)
+    private void MouseDown()
     {
-        pressPosition = eventData.position;
+        Debug.Log("Down");
+        startPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
     }
 
-    public void OnPointerUp(PointerEventData eventData)
+    private void MouseUp()
     {
-        endPosition = eventData.position;
+        endPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
         AddForce();
     }
 
     void AddForce()
     {
-        direction = (pressPosition - endPosition).normalized;
+        direction = (startPress - endPress).normalized;
         rb2d.bodyType = RigidbodyType2D.Dynamic;
-        // rb2d.AddForce(direction * forceFactor);
-        rb2d.velocity = direction* forceFactor;
+        rb2d.velocity = direction * forceFactor;
     }
 }
