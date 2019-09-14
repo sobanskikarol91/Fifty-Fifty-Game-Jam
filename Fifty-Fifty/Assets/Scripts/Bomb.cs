@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bomb : MonoBehaviour
 {
     Rigidbody2D rb;
-    float increaseSpeed = 0.2f;
+    float increaseSpeed = 0.25f;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {

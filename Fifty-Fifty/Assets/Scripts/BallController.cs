@@ -29,7 +29,6 @@ public class BallController : MonoBehaviour
 
     private void MouseDown()
     {
-        Debug.Log("Down");
         startPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
     }
 
