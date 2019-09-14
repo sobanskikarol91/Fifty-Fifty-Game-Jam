@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 3b6a6859bbc72964caf59151ca9d332c
+guid: 18434d95a563a3d40963d1f18fe046ca
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 917595852549161760
-    second: puszek_0
+      213: -7473642729070270793
+    second: puszek (3)_0
   - first:
-      213: -8120715950980591734
-    second: puszek_1
+      213: -6633988587906302066
+    second: puszek (3)_1
   - first:
-      213: -7928479722092582416
-    second: puszek_2
+      213: -2704699094526199183
+    second: puszek (3)_2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -55,7 +55,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 212, y: 281, z: 309, w: 229}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -119,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: puszek_0
+      name: puszek (3)_0
       rect:
         serializedVersion: 2
-        x: 210
-        y: 295
-        width: 479
-        height: 475
+        x: 203
+        y: 289
+        width: 488
+        height: 502
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,14 +133,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1391bc4fe6a772b46b3634e33729a258
-      internalID: 917595852549161760
+      spriteID: f07361921bc6ba443918283a60b8c1b5
+      internalID: -7473642729070270793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: puszek_1
+      name: puszek (3)_1
       rect:
         serializedVersion: 2
         x: 192
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 020f32c0735f2db4b981e9df5d85796a
-      internalID: -8120715950980591734
+      spriteID: f5c3312ee487aa34eb2f0120c5deb9b0
+      internalID: -6633988587906302066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: puszek_2
+      name: puszek (3)_2
       rect:
         serializedVersion: 2
         x: 197
@@ -175,8 +175,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76b78c345bf17dd4e8bb43773360c33c
-      internalID: -7928479722092582416
+      spriteID: 0efcdac07e4a02c47bffa2aff8da73d7
+      internalID: -2704699094526199183
       vertices: []
       indices: 
       edges: []

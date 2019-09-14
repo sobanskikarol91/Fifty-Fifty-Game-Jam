@@ -7,6 +7,8 @@ public class Bomb : MonoBehaviour
     Rigidbody2D rb;
     float increaseSpeed = 0.25f;
     [SerializeField] GameObject particle;
+    [SerializeField] AudioClip[] eat;
+
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -15,5 +17,12 @@ public class Bomb : MonoBehaviour
         rb.velocity *= 1 + increaseSpeed;
         Destroy(gameObject);
         RipplePostProcessor.instance.ShowEffect(GameManager.instance.Player.transform);
+        PlaySnd();
+    }
+
+    private void PlaySnd()
+    {
+        int nr = Random.Range(0, eat.Length);
+        AudioSource.PlayClipAtPoint(eat[nr], transform.position);
     }
 }
