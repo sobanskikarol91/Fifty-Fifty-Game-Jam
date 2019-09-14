@@ -3494,7 +3494,7 @@ PrefabInstance:
     - target: {fileID: 1707883314258883483, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7549721610688566116, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
@@ -3675,6 +3675,11 @@ PrefabInstance:
         type: 3}
       propertyPath: InitialModule.startSize.scalar
       value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3572932243107926990, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62db08e7c0e41c74daa620bb8ad9dcad, type: 3}
