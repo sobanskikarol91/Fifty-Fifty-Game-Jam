@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -11,6 +12,9 @@ public class BallController : MonoBehaviour
     Rigidbody2D rb2d;
 
     [SerializeField] float forceFactor;
+
+    public static event Action OnMouseDown;
+    public static event Action OnMouseUp;
 
     private void Awake()
     {
@@ -30,12 +34,15 @@ public class BallController : MonoBehaviour
     private void MouseDown()
     {
         startPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
+        OnMouseDown?.Invoke();
     }
 
     private void MouseUp()
     {
+        OnMouseUp?.Invoke();
         endPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
         AddForce();
+
     }
 
     void AddForce()

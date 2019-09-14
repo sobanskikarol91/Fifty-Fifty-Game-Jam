@@ -14,5 +14,6 @@ public class Bomb : MonoBehaviour
         rb = collision.gameObject.GetComponent<Rigidbody2D>();
         rb.velocity *= 1 + increaseSpeed;
         Destroy(gameObject);
+        RipplePostProcessor.instance.ShowEffect(GameManager.instance.Player.transform);
     }
 }
