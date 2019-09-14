@@ -6,17 +6,23 @@ public class EyesFallower : MonoBehaviour
     [SerializeField] float distance = 0.1f;
     [SerializeField] bool isAI;
     [SerializeField] bool isShooting;
+    [SerializeField] Transform target;
+
     Action UpdateLookingDirection;
 
     private void Awake()
     {
         if (isAI)
             UpdateLookingDirection = LookingToPlayer;
-        else 
+        else
             UpdateLookingDirection = LookingToMouse;
 
         if (isShooting)
             UpdateLookingDirection = LookingToShooting;
+
+        if (target)
+            UpdateLookingDirection = LookingToTehTarget;
+
     }
 
     private void Update()
@@ -39,6 +45,12 @@ public class EyesFallower : MonoBehaviour
     void LookingToShooting()
     {
         Vector3 direction = GameManager.instance.Player.position - Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        transform.localPosition = direction.normalized * distance;
+    }
+
+    void LookingToTehTarget()
+    {
+        Vector3 direction = target.position - transform.position;
         transform.localPosition = direction.normalized * distance;
     }
 }

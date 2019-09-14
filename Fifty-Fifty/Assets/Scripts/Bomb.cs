@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bomb : MonoBehaviour
 {
     Rigidbody2D rb;
-    float increaseSpeed = 0.25f;
+    float increaseSpeed = 0.15f;
     [SerializeField] GameObject particle;
     [SerializeField] AudioClip[] eat;
 
