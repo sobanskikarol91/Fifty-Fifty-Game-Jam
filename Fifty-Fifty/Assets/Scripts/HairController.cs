@@ -6,7 +6,7 @@ public class HairController : MonoBehaviour
 {
     [SerializeField] GameObject blueHair;
     [SerializeField] GameObject greenHair;
-
+    [SerializeField] GameObject redHair;
     GameObject currentHair;
 
     private void Awake()
@@ -22,6 +22,8 @@ public class HairController : MonoBehaviour
             currentHair = blueHair;
         else if (color == HairColor.Green)
             currentHair = greenHair;
+        else if (color == HairColor.Red)
+            currentHair = redHair;
 
         currentHair.SetActive(true);
     }
