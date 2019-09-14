@@ -1616,6 +1616,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 460353161835548457, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: distance
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9165050666674991311, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: distance
+      value: 0.7
+      objectReference: {fileID: 0}
     - target: {fileID: 2408564975814401197, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
       propertyPath: greenHair
