@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 6571218379104177572}
   - component: {fileID: 6571218379104177569}
   - component: {fileID: 1475849661}
+  - component: {fileID: 5581168155369565635}
   m_Layer: 0
   m_Name: Bomb
   m_TagString: Untagged
@@ -254,6 +255,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   color: 0
+--- !u!95 &5581168155369565635
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6571218379104177573}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b5352a330ae86544895c7f429b871272, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &3454361522473151112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -265,6 +285,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
+        type: 3}
+      propertyPath: distance
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
+        type: 3}
+      propertyPath: isAI
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2232873263032373902, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
         type: 3}
@@ -336,16 +366,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.6405069
       objectReference: {fileID: 0}
-    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
-        type: 3}
-      propertyPath: distance
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
-        type: 3}
-      propertyPath: isAI
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33bd8f85c0f431044bf3624bb0c92b2b, type: 3}
 --- !u!4 &3534369028070520838 stripped
@@ -365,6 +385,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
+        type: 3}
+      propertyPath: distance
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
+        type: 3}
+      propertyPath: isAI
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2232873263032373902, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
         type: 3}
@@ -435,16 +465,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6405069
-      objectReference: {fileID: 0}
-    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
-        type: 3}
-      propertyPath: distance
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1828917922806929471, guid: 33bd8f85c0f431044bf3624bb0c92b2b,
-        type: 3}
-      propertyPath: isAI
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 33bd8f85c0f431044bf3624bb0c92b2b, type: 3}
