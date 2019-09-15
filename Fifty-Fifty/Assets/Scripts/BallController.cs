@@ -21,6 +21,8 @@ public class BallController : MonoBehaviour
 
     public static event Action OnMouseDown;
     public static event Action OnMouseUp;
+    public static event Action OnDragging;
+
 
     private void Awake()
     {
@@ -39,6 +41,9 @@ public class BallController : MonoBehaviour
             MouseDown();
         else if (Input.GetMouseButtonUp(0))
             MouseUp();
+        else if (Input.GetMouseButton(0))
+            GameManager.instance.DecreaseTimeSlow();
+            
 
     }
 

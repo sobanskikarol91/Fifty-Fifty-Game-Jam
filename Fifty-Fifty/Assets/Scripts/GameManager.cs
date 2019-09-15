@@ -11,13 +11,16 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     public GameObject gameOver;
     private MenuController menu;
-    private int totalScore;
+    private float totalScore;
     private int timeToChangeColor;
     private int currentPickups;
     public AudioClip piii;
     public Text totalScoreTxt;
 
     public GameObject lighting;
+
+    float decreasionFactor = 30f;
+
     public void WrongColor()
     {
         scoreTxt.gameObject.SetActive(false);
@@ -49,6 +52,13 @@ public class GameManager : MonoBehaviour
         Invoke("GameOverPanel", 1.6f);
     }
 
+    internal  void DecreaseTimeSlow()
+    {
+        totalScore -= Time.deltaTime * decreasionFactor;
+        totalScoreTxt.text = "Score: " +  ((int)totalScore).ToString();
+        scoreTxt.text = "Score: " +  ((int)totalScore).ToString();
+    }
+
     private void GameOverPanel()
     {
         lighting.SetActive(false);
@@ -64,10 +74,11 @@ public class GameManager : MonoBehaviour
     public void AddScore()
     {
         totalScore += 100;
-        totalScoreTxt.text = "Score: " + totalScore.ToString();
+        totalScoreTxt.text = "Score: " + ((int)totalScore).ToString();
+        scoreTxt.text = "Score: " + ((int)totalScore).ToString();
         CheckIfIsReadyTochangeColor();
         currentPickups++;
-        scoreTxt.text = "Score: " + totalScore.ToString();
+
     }
 
     private void CheckIfIsReadyTochangeColor()
