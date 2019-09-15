@@ -1217,6 +1217,11 @@ PrefabInstance:
       propertyPath: piii
       value: 
       objectReference: {fileID: 8300000, guid: 8af8289f14c14934483b08b045ae6734, type: 3}
+    - target: {fileID: 6863458761151159083, guid: 076c6dfac2ea3054d8fc9529a8e226e5,
+        type: 3}
+      propertyPath: scoreTxt
+      value: 
+      objectReference: {fileID: 1504146291}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 076c6dfac2ea3054d8fc9529a8e226e5, type: 3}
 --- !u!1001 &397480516
@@ -3888,6 +3893,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1182515529}
+  - {fileID: 1504146290}
   m_Father: {fileID: 499563801}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5002,6 +5008,85 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1494640409}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1504146289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1504146290}
+  - component: {fileID: 1504146292}
+  - component: {fileID: 1504146291}
+  m_Layer: 5
+  m_Name: Score
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1504146290
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504146289}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1211304390}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.4533523, y: 1}
+  m_AnchorMax: {x: 0.71760386, y: 1}
+  m_AnchoredPosition: {x: 0.05999756, y: -49.5}
+  m_SizeDelta: {x: 2.130005, y: 99}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1504146291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504146289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.986397, g: 1, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 580564a149050ce4a96219e3e2b5545a, type: 3}
+    m_FontSize: 30
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Score:  0'
+--- !u!222 &1504146292
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504146289}
+  m_CullTransparentMesh: 0
 --- !u!4 &1512373043 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6571218379104177574, guid: d7c5c3fe472bb5f4b8df2a9d8fee3756,

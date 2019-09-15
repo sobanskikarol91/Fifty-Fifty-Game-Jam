@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -27,6 +28,7 @@ public class GameManager : MonoBehaviour
     public GameObject blueTip;
     public GameObject greenTip;
     public static HairColor desireColor;
+    public static Text scoreTxt;
 
     private void Awake()
     {
@@ -58,6 +60,7 @@ public class GameManager : MonoBehaviour
         totalScore += 100;
         CheckIfIsReadyTochangeColor();
         currentPickups++;
+        scoreTxt.text = "Score: " + totalScore.ToString();
     }
 
     private void CheckIfIsReadyTochangeColor()
