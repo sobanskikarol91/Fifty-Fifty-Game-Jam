@@ -44,6 +44,7 @@ public class GameManager : MonoBehaviour
 
     private void GameOverPanel()
     {
+        pusia.SetActive(false);
         gameOver.SetActive(true);
     }
 

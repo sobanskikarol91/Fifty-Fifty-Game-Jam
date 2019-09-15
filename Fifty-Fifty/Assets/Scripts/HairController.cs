@@ -27,6 +27,7 @@ public class HairController : MonoBehaviour
         originalSpeed = rb2d.velocity;
         currentColor = HairColor.Green;
         currentHair = greenHair;
+        //DisableOldParticles(greenHair);
         DisableOldParticles(blueHair);
         DisableOldParticles(redHair);
         orginalLifeTime = 100;
