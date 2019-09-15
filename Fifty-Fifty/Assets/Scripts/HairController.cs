@@ -9,6 +9,10 @@ public class HairController : MonoBehaviour
     [SerializeField] GameObject blueHair;
     [SerializeField] GameObject redHair;
 
+    [SerializeField] GameObject redPart;
+    [SerializeField] GameObject bluePart;
+    [SerializeField] GameObject greenPart;
+
     ParticleSystem[] particles;
     GameObject currentHair;
     Rigidbody2D rb2d;
@@ -30,8 +34,8 @@ public class HairController : MonoBehaviour
 
     private void Update()
     {
-       // float percantage = rb2d.velocity.magnitude / originalSpeed.magnitude;
-       // Array.ForEach(particles, p => p.startLifetime = orginalLifeTime * percantage);
+        // float percantage = rb2d.velocity.magnitude / originalSpeed.magnitude;
+        // Array.ForEach(particles, p => p.startLifetime = orginalLifeTime * percantage);
     }
 
     public void ChangeHairColor(HairColor color)
@@ -66,5 +70,21 @@ public class HairController : MonoBehaviour
     public void StopEmittingCurrentHairs()
     {
         DisableOldParticles(currentHair);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Col");
+        Vector3 position = collision.contacts[0].point;
+        GameObject prefab = bluePart;
+
+        if (currentColor == HairColor.Blue)
+            prefab = bluePart;
+        else if (currentColor == HairColor.Red)
+            prefab = redPart;
+        else if (currentColor == HairColor.Green)
+            prefab = greenPart;
+
+        Instantiate(prefab, position, Quaternion.identity);
     }
 }

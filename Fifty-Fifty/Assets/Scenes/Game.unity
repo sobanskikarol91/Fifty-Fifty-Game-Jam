@@ -4796,6 +4796,24 @@ PrefabInstance:
       propertyPath: redHair
       value: 
       objectReference: {fileID: 1455014406748005362}
+    - target: {fileID: 2408564975814401197, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: redPart
+      value: 
+      objectReference: {fileID: 5550310285478529430, guid: 2b36794e446a5ac47bc753d760770668,
+        type: 3}
+    - target: {fileID: 2408564975814401197, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: bluePart
+      value: 
+      objectReference: {fileID: 2607318285987812432, guid: 9b46259689e72cc49927b1e6b52be53f,
+        type: 3}
+    - target: {fileID: 2408564975814401197, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: greenPart
+      value: 
+      objectReference: {fileID: 1429701803709451126, guid: b427295d39470a741ab4acdf389b4ea1,
+        type: 3}
     - target: {fileID: 1455014407135799405, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
       propertyPath: m_LocalPosition.y
