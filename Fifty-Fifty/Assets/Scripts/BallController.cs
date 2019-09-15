@@ -16,8 +16,8 @@ public class BallController : MonoBehaviour
     [SerializeField] AudioClip deathSnd;
     [SerializeField] float forceFactor;
     [SerializeField] AudioClip jumpSnd;
-    
-    
+    [SerializeField] AudioClip bounce;
+
 
     public static event Action OnMouseDown;
     public static event Action OnMouseUp;
@@ -70,5 +70,10 @@ public class BallController : MonoBehaviour
         direction = (startPress - endPress).normalized;
         rb2d.bodyType = RigidbodyType2D.Dynamic;
         rb2d.velocity = direction * forceFactor;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        AudioSource.PlayClipAtPoint(bounce, transform.position);
     }
 }

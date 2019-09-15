@@ -4811,6 +4811,11 @@ PrefabInstance:
       propertyPath: deathSnd
       value: 
       objectReference: {fileID: 8300000, guid: 1bbf92620f8494841bcaf6e108a61eae, type: 3}
+    - target: {fileID: 1455014407356571616, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
+        type: 3}
+      propertyPath: bounce
+      value: 
+      objectReference: {fileID: 8300000, guid: 503848ede1c13d747a59cdfe4f77edc4, type: 3}
     - target: {fileID: 1455014406385632237, guid: 62db08e7c0e41c74daa620bb8ad9dcad,
         type: 3}
       propertyPath: m_SortingOrder
