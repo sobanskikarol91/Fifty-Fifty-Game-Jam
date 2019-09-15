@@ -806,6 +806,7 @@ MonoBehaviour:
   deathSnd: {fileID: 0}
   forceFactor: 10
   jumpSnd: {fileID: 0}
+  bounce: {fileID: 0}
 --- !u!58 &484019206
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6230,6 +6231,7 @@ MonoBehaviour:
   deathSnd: {fileID: 0}
   forceFactor: 10
   jumpSnd: {fileID: 0}
+  bounce: {fileID: 0}
 --- !u!1 &652815169
 GameObject:
   m_ObjectHideFlags: 0
@@ -56381,6 +56383,11 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 618281999}
+    - target: {fileID: 6863458761151159083, guid: 076c6dfac2ea3054d8fc9529a8e226e5,
+        type: 3}
+      propertyPath: gameOver
+      value: 
+      objectReference: {fileID: 316175590}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 076c6dfac2ea3054d8fc9529a8e226e5, type: 3}
 --- !u!4 &7319102085454872254

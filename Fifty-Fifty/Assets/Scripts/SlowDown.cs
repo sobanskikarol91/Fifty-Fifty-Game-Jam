@@ -24,4 +24,10 @@ public class SlowDown : MonoBehaviour
     {
         Time.timeScale = 1f;
     }
+
+    private void OnDisable()
+    {
+        BallController.OnMouseDown -= DecreaseTime;
+        BallController.OnMouseUp -= IncreaseTime;
+    }
 }
