@@ -2225,6 +2225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scissors (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3067427072035811126, guid: 113762e1e806fc44da380db3613d5812,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3067427072035811130, guid: 113762e1e806fc44da380db3613d5812,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3420,16 +3425,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
-    - target: {fileID: 518717980686199465, guid: 0c4cc2c9132e0ed498104fa11c716b78,
-        type: 3}
-      propertyPath: m_EffectDistance.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 518717980686199465, guid: 0c4cc2c9132e0ed498104fa11c716b78,
-        type: 3}
-      propertyPath: m_EffectDistance.y
-      value: -2
-      objectReference: {fileID: 0}
     - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -3459,6 +3454,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 518717980686199465, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_EffectDistance.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 518717980686199465, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_EffectDistance.y
+      value: -2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c4cc2c9132e0ed498104fa11c716b78, type: 3}

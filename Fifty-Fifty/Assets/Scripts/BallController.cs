@@ -74,6 +74,7 @@ public class BallController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        animator.SetTrigger("bounce");
         AudioSource.PlayClipAtPoint(bounce, transform.position);
     }
 }
