@@ -62,4 +62,9 @@ public class HairController : MonoBehaviour
         particles = holder.GetComponentsInChildren<ParticleSystem>();
         Array.ForEach(particles, p => p.enableEmission = false);
     }
+
+    public void StopEmittingCurrentHairs()
+    {
+        DisableOldParticles(currentHair);
+    }
 }
