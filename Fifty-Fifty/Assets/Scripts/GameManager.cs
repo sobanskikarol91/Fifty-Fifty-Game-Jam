@@ -15,9 +15,13 @@ public class GameManager : MonoBehaviour
     private int timeToChangeColor;
     private int currentPickups;
     public AudioClip piii;
+    public Text totalScoreTxt;
 
+    public GameObject lighting;
     public void WrongColor()
     {
+        scoreTxt.gameObject.SetActive(false);
+
         Time.timeScale = 1;
         Player.GetComponent<BallController>().Kill();
         Invoke("GameOverPanel", 1.6f);
@@ -28,7 +32,7 @@ public class GameManager : MonoBehaviour
     public GameObject blueTip;
     public GameObject greenTip;
     public static HairColor desireColor;
-    public static Text scoreTxt;
+    public Text scoreTxt;
 
     private void Awake()
     {
@@ -40,12 +44,14 @@ public class GameManager : MonoBehaviour
 
     internal void GameOver()
     {
+        scoreTxt.gameObject.SetActive(false);
         Time.timeScale = 1;
         Invoke("GameOverPanel", 1.6f);
     }
 
     private void GameOverPanel()
     {
+        lighting.SetActive(false);
         pusia.SetActive(false);
         gameOver.SetActive(true);
     }
@@ -58,6 +64,7 @@ public class GameManager : MonoBehaviour
     public void AddScore()
     {
         totalScore += 100;
+        totalScoreTxt.text = "Score: " + totalScore.ToString();
         CheckIfIsReadyTochangeColor();
         currentPickups++;
         scoreTxt.text = "Score: " + totalScore.ToString();
