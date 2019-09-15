@@ -489,7 +489,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: b575765e23247e943a58efbaebed561f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -40371,6 +40371,41 @@ PrefabInstance:
       value: StartGame
       objectReference: {fileID: 0}
     - target: {fileID: 944057503356460053, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_Navigation.m_Mode
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 332416027}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: StartGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 6472307406276875133, guid: 0c4cc2c9132e0ed498104fa11c716b78,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine

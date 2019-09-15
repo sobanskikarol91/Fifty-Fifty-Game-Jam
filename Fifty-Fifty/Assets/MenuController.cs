@@ -8,6 +8,11 @@ public class MenuController : MonoBehaviour
 {
     public void StartGame()
     {
+        Invoke("Load", 0.2f);
+    }
+
+    private void Load()
+    {
         SceneManager.LoadScene("Game");
     }
 
