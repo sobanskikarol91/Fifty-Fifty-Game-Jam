@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
 
     public GameObject lighting;
 
-    float decreasionFactor = 30f;
+    float decreasionFactor = 40f;
 
     public void WrongColor()
     {
@@ -40,6 +40,8 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         instance = this;
+
+        if (Player == null) return;
         ChangeColor();
     }
 
@@ -89,6 +91,7 @@ public class GameManager : MonoBehaviour
 
     void ChangeColor()
     {
+        if (Player == null) return;
         int colorNr = UnityEngine.Random.Range(0, 3);
 
         AudioSource.PlayClipAtPoint(piii, Player.transform.position);

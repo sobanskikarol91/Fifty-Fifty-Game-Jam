@@ -783,7 +783,6 @@ GameObject:
   - component: {fileID: 484019208}
   - component: {fileID: 484019207}
   - component: {fileID: 484019206}
-  - component: {fileID: 484019205}
   m_Layer: 0
   m_Name: SadPuszek
   m_TagString: Player
@@ -791,22 +790,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &484019205
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 484019204}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 458a02b468787b04fa7561ec187f5bdc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  deathSnd: {fileID: 0}
-  forceFactor: 10
-  jumpSnd: {fileID: 0}
-  bounce: {fileID: 0}
 --- !u!58 &484019206
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6107,7 +6090,6 @@ GameObject:
   - component: {fileID: 618281998}
   - component: {fileID: 618281997}
   - component: {fileID: 618281996}
-  - component: {fileID: 618282000}
   m_Layer: 0
   m_Name: LadyPuszek
   m_TagString: Player
@@ -6216,22 +6198,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &618282000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 618281995}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 458a02b468787b04fa7561ec187f5bdc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  deathSnd: {fileID: 0}
-  forceFactor: 10
-  jumpSnd: {fileID: 0}
-  bounce: {fileID: 0}
 --- !u!1 &652815169
 GameObject:
   m_ObjectHideFlags: 0
@@ -56382,7 +56348,7 @@ PrefabInstance:
         type: 3}
       propertyPath: Player
       value: 
-      objectReference: {fileID: 618281999}
+      objectReference: {fileID: 0}
     - target: {fileID: 6863458761151159083, guid: 076c6dfac2ea3054d8fc9529a8e226e5,
         type: 3}
       propertyPath: gameOver

@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 
 public class BallController : MonoBehaviour
 {
-    Vector2 startPress;
+    public static Vector2 startPress;
     Vector2 endPress;
     Vector2 direction;
     Animator animator;
@@ -42,9 +42,13 @@ public class BallController : MonoBehaviour
         else if (Input.GetMouseButtonUp(0))
             MouseUp();
         else if (Input.GetMouseButton(0))
-            GameManager.instance.DecreaseTimeSlow();
-            
+            OnPlayerDragging();
+    }
 
+    private static void OnPlayerDragging()
+    {
+        GameManager.instance.DecreaseTimeSlow();
+        OnDragging();
     }
 
     internal void Kill()
@@ -58,14 +62,14 @@ public class BallController : MonoBehaviour
 
     private void MouseDown()
     {
-        startPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
+        startPress = Input.mousePosition;
         OnMouseDown?.Invoke();
     }
 
     private void MouseUp()
     {
         OnMouseUp?.Invoke();
-        endPress = Camera.main.WorldToScreenPoint(Input.mousePosition);
+        endPress = Input.mousePosition;
         AudioSource.PlayClipAtPoint(jumpSnd, transform.position);
         AddForce();
     }
