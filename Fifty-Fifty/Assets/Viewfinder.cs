@@ -34,7 +34,6 @@ public class Viewfinder : MonoBehaviour
         float angle  = Quaternion.FromToRotation(Vector3.right,   start - end).eulerAngles.z;
 
         transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
-        Debug.Log(angle);
     }
 
     private void OnDisable()

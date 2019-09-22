@@ -13,6 +13,8 @@ public class BallController : MonoBehaviour
     Rigidbody2D rb2d;
     HairController hair;
     bool isAlive = true;
+    bool firstMouseClick;
+
     [SerializeField] AudioClip deathSnd;
     [SerializeField] float forceFactor;
     [SerializeField] AudioClip jumpSnd;
@@ -68,6 +70,7 @@ public class BallController : MonoBehaviour
 
     private void MouseUp()
     {
+        firstMouseClick = true;
         OnMouseUp?.Invoke();
         endPress = Input.mousePosition;
         AudioSource.PlayClipAtPoint(jumpSnd, transform.position);
@@ -78,7 +81,11 @@ public class BallController : MonoBehaviour
     {
         direction = (startPress - endPress).normalized;
         rb2d.bodyType = RigidbodyType2D.Dynamic;
-        rb2d.velocity = direction * forceFactor;
+
+        if (firstMouseClick)
+            rb2d.velocity = direction * forceFactor;
+        else
+            rb2d.velocity = direction.normalized * rb2d.velocity.magnitude;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
